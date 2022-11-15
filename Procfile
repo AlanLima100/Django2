@@ -1,1 +1,1 @@
-web: gunicorn django2.wsgi --og-file - 
+web: gunicorn django1.wsgi --og-file - 
