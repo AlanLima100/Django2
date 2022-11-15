@@ -11,8 +11,11 @@
     
 
 </head>
-<body>
+    <center>
+
     <h1>Index</h1>
+    <img src="{% static 'images/django.png' %}"/>
+
 
     <h2>{{ curso }}</h2>
 
@@ -37,6 +40,10 @@
         {% endfor %}
 
     </table>
+
+    <button onclick="teste();">Clique-me</button>
+    </center>
+    <script type="text/javascript" src="{% static 'js/script.js' %}"></script>
 
     
 </body>

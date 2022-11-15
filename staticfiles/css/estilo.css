@@ -1,9 +1,6 @@
 body{
    background-color: #341256;
    color: #ffffff
-   
-   
-   
 }
 
 a{
@@ -14,7 +11,6 @@ a{
 table{
     border-collapse: collapse;
     width: 70%;
-    
 }
 
 th, td {
@@ -31,5 +27,3 @@ th{
     border-radius: 4px;
     cursor: pointer;
 }
-
-
